@@ -1,0 +1,21 @@
+.body-background{
+    background-image: url("https://www.artnews.com/wp-content/uploads/2020/06/shutterstock_23125933.jpg");
+    background-size: cover;
+}
+body{
+    cursor: pointer;
+}
+h1{
+    color: red;
+  font-size: 40px;
+  text-align: center;
+  
+}
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+    
+    
+}
+
